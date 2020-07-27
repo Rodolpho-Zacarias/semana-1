@@ -1,0 +1,92 @@
+@font-face {
+    font-family: 'bm';
+    src: url('bmspa___-webfont.woff2') format('woff2'),
+         url('bmspa___-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+html {
+    background-color: #4ACAD9;
+}
+header.cabecalho {
+    font-family: 'bm';
+    display: flex;
+    height: auto;
+    min-width: auto;
+    align-items: center;
+    color:#F2F2F2;
+}
+#tit1 {
+    font-family: 'bm';
+    font-size: 30px;
+    color: #383D47;
+}
+.introducao {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F2F2F2;
+    text-align: left;
+}
+#tit2 {
+    font-family: 'bm';
+    font-size: 30px;
+    color: #383D47;
+}
+.tip {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F2F2F2;
+    text-align: left;
+}
+#tip1 {
+    font-size: 22px;
+    color: #d61504;
+}
+#tip2 {
+    font-size: 22px;
+    color: #d61504;
+}
+#tip3 {
+    font-size: 22px;
+    color: #d61504;
+}
+#tip4 {
+    font-size: 22px;
+    color: #d61504;
+}
+#tip5 {
+    font-size: 22px;
+    color: #d61504;
+}
+#tip6 {
+    font-size: 22px;
+    color: #d61504;
+}
+#tip7 {
+    font-size: 22px;
+    color: #d61504;
+}
+.importancia {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F2F2F2;
+    text-align: left;
+}
+#tit3 {
+    font-family: 'bm';
+    font-size: 30px;
+    color: #383D47;
+}
+.penso {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F2F2F2;
+    text-align: left;
+}
+#tit4 {
+    font-family: 'bm';
+    font-size: 30px;
+    color: #383D47;
+}
+#assinatura {
+    font-family: 'bm';
+    font-size: 40px;
+    color: #383D47;
+    text-align: center;
+}
